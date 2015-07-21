@@ -10,7 +10,7 @@ Each mode can be easily chosen by picking a gameType when specifying the game op
 
 For the network game you need to install the server:
 
-git clone https://github.com/Predator-Design-Studios/Mortal-Kombat-HTML.git
+git clone https://github.com/vasuki1996/MK-HTML-GESTURE.git
 
 cd mk.js/server
 
