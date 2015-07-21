@@ -11,8 +11,11 @@ Each mode can be easily chosen by picking a gameType when specifying the game op
 For the network game you need to install the server:
 
 git clone https://github.com/Predator-Design-Studios/Mortal-Kombat-HTML.git
+
 cd mk.js/server
+
 npm install
+
 node server.js
 
 The server will be started on port 55555. Open your browser and go to http://localhost:55555. Both players must enter the same game name to play together.
